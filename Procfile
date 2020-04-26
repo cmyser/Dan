@@ -1,1 +1,1 @@
-web: gunicorn Dan.wsgi/
+web: gunicorn Dan.wsgi
